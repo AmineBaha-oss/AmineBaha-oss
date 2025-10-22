@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Amine Baha
 
-<!--
-**AmineBaha-oss/AmineBaha-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Baha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amine-baha-915920303)
+[![Gmail](https://img.shields.io/badge/Email-aminebaha115%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aminebaha115@gmail.com)
 
-Here are some ideas to get you started:
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmineBaha-oss&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+| | |
+|---|---|
+| <img height="150" src="https://github-readme-stats.vercel.app/api?username=AmineBaha-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBaha-oss&layout=compact&theme=tokyonight&hide_border=true"/> |
